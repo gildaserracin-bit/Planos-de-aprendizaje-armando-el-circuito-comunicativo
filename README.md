@@ -30,18 +30,25 @@ repositorio para planos
 
 ### 📡 Modelo Lineal
 -El Modelo Lineal en la educación virtual es un enfoque de diseño instruccional y planificación curricular que organiza los contenidos y las actividades de aprendizaje en una secuencia estructurada, paso a paso y progresiva
-- **Ejemplo en nuestro contexto:**  
+- **Ejemplo en nuestro contexto:**
+-  Un ejemplo perfecto de este enfoque en la educación virtual es el desarrollo de un curso autogestionado (o autoasistido) en plataformas como Moodle o Canvas.
 
 ### 🔄 Modelo Interactivo
-- **Representación en clases virtuales:**  
-- **Ejemplo en nuestro contexto:**  
+- **Representación en clases virtuales:**
+- El Modelo Interactivo en clases virtuales es un enfoque pedagógico que transforma el aprendizaje en una experiencia bidireccional. Promueve la participación activa del alumno y el trabajo colaborativo en red. En lugar de limitarse a sesiones magistrales, se apoya en actividades detonantes, herramientas digitales y metodologías centradas en el estudiante
+- *El Modelo Interactivo en clases virtuales es un enfoque pedagógico que transforma el aprendizaje en una experiencia bidireccional. Promueve la participación activa del alumno y el trabajo colaborativo en red. En lugar de limitarse a sesiones magistrales, se apoya en actividades detonantes, herramientas digitales y metodologías centradas en el estudiante.
+- - **Ejemplo en nuestro contexto:**  
+-  Actividad Detonante (Primeros 5-10 minutos)Acción: El docente inicia la sesión en Zoom o Microsoft Teams y comparte su pantalla.
+-   Actividad Instruccional Corta (10 minutos)
+-   . Actividad Colaborativa en Salas (20 minutos)
 
-### 🧠 Modelo Constructivista
-- **Representación en clases virtuales:**  
-- **Ejemplo en nuestro contexto:**  
+### 🧠 **Representación en clases virtuales:**
+**Representación en clases virtuales:**
+La representación en clases virtuales se refiere a cómo se visualizan, estructuran y comunican tanto los participantes como los contenidos en un entorno digital. Esto incluye las herramientas de videoconferencia (cámaras), las pizarras interactivas, la distribución de los espacios de aprendizaje y la metáfora visual del aula tradicional llevada al internet
 
----
-
+---- - **Ejemplo en nuestro contexto:** 
+Plataforma: Uso de Google Meet o Zoom para sesiones sincrónicas, donde la metáfora del aula tradicional se traslada a la pantalla mediante la "vista de galería". 
+Participación: Para levantar la mano y mantener el orden, se utiliza el botón de interacción digital, y las dudas se gestionan simultáneamente en el chat lateral, creando un entorno ágil y estructurado sin interrupciones constantes.
 ### 💡 Reflexión
 
 - ❓ ¿Qué roles asumimos como emisores y receptores?  
