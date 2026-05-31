@@ -3,7 +3,7 @@ repositorio para planos
 # 🌌 Planos del Aprendizaje: Armando el Circuito Comunicativo
 
 ### 🛰️ Título:
-**Plano comunicativo – Patrulla  [Nombre del Grupo]**
+**Plano comunicativo – Patrulla  [Jaguares]**
 
 ---
 
@@ -19,7 +19,7 @@ repositorio para planos
 
 | Nombre | Rol en el grupo | Correo / Contacto |
 |--------|---------------|-------------------|
-|Briseida|               |                   |
+|Gilda|               |                   |
 |        |               |                   |
 |        |               |                   |
 |        |               |                   |
@@ -29,7 +29,7 @@ repositorio para planos
 ## 🔍 3️⃣ Exploración de modelos de comunicación
 
 ### 📡 Modelo Lineal
-- **Representación en clases virtuales:**  
+-El Modelo Lineal en la educación virtual es un enfoque de diseño instruccional y planificación curricular que organiza los contenidos y las actividades de aprendizaje en una secuencia estructurada, paso a paso y progresiva
 - **Ejemplo en nuestro contexto:**  
 
 ### 🔄 Modelo Interactivo
